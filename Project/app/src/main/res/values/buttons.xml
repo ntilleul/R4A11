@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_display_text">clique frr</string>
+    <string name="button_create_text">afficher nouveau textView</string>
+    <string name="button_next_activity">next</string>
+    <string name="button_go_back">précédent</string>
+</resources>
