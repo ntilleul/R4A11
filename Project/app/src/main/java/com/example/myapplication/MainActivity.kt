@@ -37,7 +37,6 @@ class MainActivity : AppCompatActivity() {
 
         editText.setOnEditorActionListener { _, actionId, _ ->
             if (actionId == EditorInfo.IME_ACTION_DONE) {
-                val inputText = editText.text.toString().trim()
                 thirdButton.isEnabled = true
                 true
             } else {
